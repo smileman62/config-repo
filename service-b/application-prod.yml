@@ -1,5 +1,2 @@
 service:
  name: test service for Production B 202234877 Kimjinsung
-logging:
-    level:
-        root: WARN
